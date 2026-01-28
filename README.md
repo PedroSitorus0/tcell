@@ -225,9 +225,3 @@ Q: Saat print PDF error failed to open stream
 Q: Gambar/CSS tidak muncul?
 
     Solusi: Pastikan kamu membuka lewat localhost/folder, BUKAN klik kanan file -> Open with Browser.
-
-👨‍💻 Author
-
-Dikembangkan dengan ❤️ dan ☕ oleh Pedro Armando. Project ini dibuat untuk tujuan edukasi dan penyelesaian tugas kuliah.
-
-Jangan lupa kasih ⭐ (Star) jika project ini membantu kamu belajar!
